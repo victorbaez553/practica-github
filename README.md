@@ -2,3 +2,5 @@
 Estado del Proyecto: Practicando
 Para ejecutar el sistema, ingrese:
 ```npm install ract```
+
+Sistema de reegistro 2
